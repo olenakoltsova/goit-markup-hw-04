@@ -432,11 +432,13 @@ img {
 .footer-container {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
+  margin-right: 120px;
+}
+.container .footer-container {
   margin-right: 120px;
 }
