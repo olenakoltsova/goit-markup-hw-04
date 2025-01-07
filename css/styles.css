@@ -437,8 +437,7 @@ img {
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
-  margin-right: 120px;
 }
-.container .footer-container {
+.page-footer .footer-logo {
   margin-right: 120px;
 }
